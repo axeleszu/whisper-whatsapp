@@ -1,0 +1,6 @@
+flask
+twilio
+git+https://github.com/openai/whisper.git
+torch
+torchaudio
+requests
